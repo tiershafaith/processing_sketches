@@ -1,0 +1,10 @@
+size(400,400);
+background(0,150,2255);
+fill(20,120,200);
+noStroke();
+circle(50,50,50);
+fill(20,120,200);
+stroke(100,200,10);
+strokeWeight(4);
+//rectMode(CENTER);
+rect(120,80,220,220);
